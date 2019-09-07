@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: wide
 ---
 This is my personal webpage. It is still a work-in-progress as I learn how to tweak the design a bit.
 
