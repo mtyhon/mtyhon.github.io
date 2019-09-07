@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 classes: wide
+header:
+  overlay_color: "#333"
 ---
 This is my personal webpage. It is still a work-in-progress as I learn how to tweak the design a bit.
 
