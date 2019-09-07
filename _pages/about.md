@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About Marc"
-excerpt: "About me"
+title: "Marc's Webpage"
+excerpt: "Because it's nice to have one to yourself."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 classes: wide
 header:
-  overlay_color: "#333"
+  image: /images/header_banner.jpg
 ---
 This is my personal webpage. It is still a work-in-progress as I learn how to tweak the design a bit.
 
