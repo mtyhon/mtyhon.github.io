@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 classes: wide
 header:
-  image: https://i.imgur.com/yhFZ8TQ.jpg
+  image: https://i.imgur.com/wtGXeZ4.jpg
 ---
 This is my personal webpage. It is still a work-in-progress as I learn how to tweak the design a bit.
 
