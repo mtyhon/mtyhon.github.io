@@ -10,27 +10,23 @@ classes: wide
 header:
   image: https://i.imgur.com/yhFZ8TQ.jpg
 ---
-This is my personal webpage. It is still a work-in-progress as I learn how to tweak the design a bit.
 
 
-Achievements
+Biography
 ======
-Actually exploring the [docs](https://mmistakes.github.io/minimal-mistakes/) on how to change some design on this page! I will be exploring this soon!
+I am a PhD candidate in the School of Physics in UNSW Sydney working with [Dennis Stello](https://research.unsw.edu.au/people/associate-professor-dennis-stello). My work focuses on the **applications of deep learning in asteroseismology**, which combines two very exciting research fields: artificial intelligence and astronomy. With great strides in recent exoplanet-hunting missions from NASA such as [_Kepler_](https://www.nasa.gov/mission_pages/kepler/main/index.html) and the [Transiting Exoplanet Survey Satellite (_TESS_)](https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite), asteroseismology has become a key tool for the characterization of fundamental stellar properties of a star and to investigate stellar interiors. Using deep learning for asteroseismology accelerates this analysis for thousands to millions of stars, thus becoming important methods for Galactic archaeology and the search for exoplanets. 
 
 
-**Smaller Section Here**
+Research Interests
+------
+* Red Giant Asteroseismology
+* Artificial Intelligence
+* Machine Learning
+* Galactic Archaeology
 
-This is a nice template.
-
-
-Publications
+Highlighted Publications
 ------
 TBD
 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-More info that I really should be looking at
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
