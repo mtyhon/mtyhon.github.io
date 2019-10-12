@@ -16,11 +16,15 @@ author_profile: true
 {% endfor %}
 
 ## Contributed Detections
+{% include base_path %}
+
 {% for post in site.publications_det reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 ## Contributed Evstate
+{% include base_path %}
+
 {% for post in site.publications_evstate reversed %}
   {% include archive-single.html %}
 {% endfor %}
