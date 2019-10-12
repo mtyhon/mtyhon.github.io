@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Lead author papers
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -15,16 +14,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Contributed Detections
-{% include base_path %}
-
-{% for post in site.publications_det reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Contributed Evstate
-{% include base_path %}
-
-{% for post in site.publications_evstate reversed %}
-  {% include archive-single.html %}
-{% endfor %}
