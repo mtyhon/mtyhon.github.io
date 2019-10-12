@@ -183,6 +183,10 @@ collections:
     permalink: /:collection/:path/
   publications_det:
     output: true
+  publications_evstate:
+    output: true
+  publications_obs:
+    output: true
   portfolio:
     output: true
     permalink: /:collection/:path/
