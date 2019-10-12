@@ -19,3 +19,8 @@ author_profile: true
 {% for post in site.publications_det reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Contributed Evstate
+{% for post in site.publications_evstate reversed %}
+  {% include archive-single.html %}
+{% endfor %}
