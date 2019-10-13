@@ -11,4 +11,4 @@ This work extends the red giant evolutionary state convolutional network towards
 
 [Download paper here](https://arxiv.org/pdf/1802.07260)
 
-Recommended citation: Hon, M.; Stello, D.; Yu, J..“Deep learning classification in asteroseismology using an improved neural network: result on 15000  *Kepler* red giants and applications to *K2* and *TESS* data”, 2018, MNRAS, 476, 3233.
+doi:[10.1093/mnras/sty483](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.1093%2Fmnras%2Fsty483&v=1ceb833f)
