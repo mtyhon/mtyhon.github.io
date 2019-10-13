@@ -18,3 +18,13 @@ author_profile: true
 {% for post in site.publications_det reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Contributed Evolutionary States
+{% for post in site.publications_evstate reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Contributed Observational Data
+{% for post in site.publications_obs reversed %}
+  {% include archive-single.html %}
+{% endfor %}
