@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-<hr/>
+---
 
 ## Contributed Detections
 {% for post in site.publications_det reversed %}
@@ -24,7 +24,7 @@ author_profile: true
 {% endfor %}
 
 
-<hr/>
+---
 
 ## Contributed Evolutionary States
 {% for post in site.publications_evstate reversed %}
@@ -32,7 +32,7 @@ author_profile: true
 {% endfor %}
 
 
-<hr/>
+---
 
 ## Contributed Observational Data
 {% for post in site.publications_obs reversed %}
