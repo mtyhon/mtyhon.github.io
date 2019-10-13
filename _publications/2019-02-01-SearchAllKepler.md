@@ -1,5 +1,5 @@
 ---
-title: "A Search for Red Giant Solar-like oscillations in All *Kepler* Data"
+title: "A Search for Red Giant Solar-like Oscillations in All *Kepler* Data"
 collection: publications
 permalink: /publication/2019-02-01-SearchAllKepler
 excerpt: 'This work searches for evolved Sun-like stars across the entire *Kepler* catalog using deep learning-based computer vision, finding many stars previously untargeted by the spacecraft.'
