@@ -1,4 +1,6 @@
 # main links links
+#  - title: "Guide"
+#    url: /markdown/
 main:
   - title: "Publications"
     url: /publications/
@@ -6,5 +8,4 @@ main:
   - title: "CV"
     url: /files/Academic_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+
