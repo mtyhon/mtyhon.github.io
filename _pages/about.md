@@ -14,12 +14,12 @@ header:
 
 Biography
 ======
-I am a PhD candidate in the School of Physics in UNSW Sydney working with [Dennis Stello](https://research.unsw.edu.au/people/associate-professor-dennis-stello). My work focuses on the **applications of deep learning in asteroseismology**, which combines two very exciting research fields: artificial intelligence and astronomy. With great strides in recent exoplanet-hunting missions from NASA such as [_Kepler_](https://www.nasa.gov/mission_pages/kepler/main/index.html) and the [Transiting Exoplanet Survey Satellite (_TESS_)](https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite), asteroseismology has become a key tool for the characterization of fundamental stellar properties of a star and to investigate stellar interiors. Using deep learning for asteroseismology accelerates this analysis for thousands to millions of stars, thus becoming important methods for Galactic archaeology and the search for exoplanets. 
+I am a PhD candidate in the School of Physics in UNSW Sydney working with [Dennis Stello](https://research.unsw.edu.au/people/associate-professor-dennis-stello). My work focuses on the **applications of deep learning in asteroseismology**, which combines two very exciting research fields: artificial intelligence and astronomy. With great strides in recent exoplanet-hunting missions from NASA such as [_Kepler_](https://www.nasa.gov/mission_pages/kepler/main/index.html) and the [Transiting Exoplanet Survey Satellite (_TESS_)](https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite), asteroseismology has become a key tool for the characterization of fundamental stellar properties and to investigate stellar interiors. Using deep learning for asteroseismology accelerates this analysis for thousands to millions of stars, thus becoming important methods for Galactic archaeology and the search for exoplanets. 
 
 
 Research Interests
 ------
-I am interested in understanding more about stellar evolution, as well as demystifying the origins our the Galaxy through modern space surveys! I am especially enthusiastic in learning about powerful 'Big Data'-era pattern recognition/data analysis techniques such as deep learning.
+I am interested in understanding more about stellar evolution, as well as demystifying the origins of the Galaxy through modern space surveys! I am especially enthusiastic in learning about powerful 'Big Data'-era pattern recognition/data analysis techniques such as deep learning.
 
 * Red Giant Asteroseismology
 * Deep Learning and other approaches to Artificial Intelligence
