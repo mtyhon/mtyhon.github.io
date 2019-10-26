@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 7"
+title: "TESS Asteroseismology of the known red-giant host stars HD 212771 and HD 203949"
 collection: publications
-permalink: /publication/2019-11-01-paper-title-number-4
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019_campante
+date: 2019-07-01
+venue: 'The Astrophysical Journal'
+citation: 'Campante, T. L.; Corsaro, E.; Lund, M. N.; et al. "TESS Asteroseismology of the known red-giant host stars HD 212771 and HD 203949", 2019, ApJ, accepted.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/1909.05961)
