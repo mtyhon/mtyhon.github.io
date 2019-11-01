@@ -26,6 +26,11 @@ I am interested in understanding more about stellar evolution, as well as demyst
 * Machine Learning
 * Galactic Archaeology
 
+<figure>
+  <img src="/images/AI-Heatmap_Single_LargerFont.jpg" alt="this is a placeholder image">
+  <figcaption>The deep learning seismic detector determines the presence of red giant oscillations and precisely measures the characteristic oscillation frequency, $\nu_{\mathrm{max}}$, from the grayscale image (right panel) of a power spectrum plot (left panel). The red-purple regions on the right image are parts of the power spectrum that are given high `attention' by the detector -- these correspond to the very same features a human visual expert uses for identifying oscillations.</figcaption>
+</figure>
+
 Highlighted Publications
 ------
 Check out my [Publications](https://mtyhon.github.io/publications/) page for more details!
