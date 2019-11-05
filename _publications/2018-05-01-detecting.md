@@ -11,5 +11,5 @@ For the first time, we use deep learning-based computer vision to mimic the huma
 
 doi:[	10.3847/1538-3881/ab1488](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.3847%2F1538-3881%2Fab1488&v=2f98bbf7)
 
-[Download paper here](https://arxiv.org/pdf/1804.07495f)
+[Download paper here](https://arxiv.org/pdf/1804.07495)
 
