@@ -8,4 +8,6 @@ main:
   - title: "CV"
     url: /files/Academic_CV.pdf
     
+  - title: "Projects"
+    url: /projects/
 
