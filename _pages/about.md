@@ -30,7 +30,7 @@ Highlighted Publications
 ------
 Check out my [Publications](https://mtyhon.github.io/publications/) page for more details!
 
-* Hon, M.; Stello, D.; Garc ́ıa, R. A.; et al..“A search for red giant solar-like oscillationsin all Kepler data”, 2019, MNRAS, 485, 5616, doi:[10.1093/mnras/stz622](https://doi.org/10.1093/mnras/stz622)
+* Hon, M.; Stello, D.; Garc ́ıa, R. A.; et al..“A search for red giant solar-like oscillations in all Kepler data”, 2019, MNRAS, 485, 5616, doi:[10.1093/mnras/stz622](https://doi.org/10.1093/mnras/stz622)
 * Hon, M.; Stello, D.; Zinn, J..“Detecting Solar-like Oscillations in Red Giants with Deep Learning”, 2018, ApJ, 859, 64, doi:[10.3847/1538-4357/aabfdb](https://doi.org/10.3847/1538-4357/aabfdb)
 * Hon, M.; Stello, D.; Yu, J..“Deep learning classification in asteroseismology using an improved neural network: results on 15000 Kepler red giants and applications to K2 and TESS data”, 2018, MNRAS, 476, 3233, doi:[10.1093/mnras/sty483](10.1093/mnras/sty483)
 * Hon, M.; Stello, D.; Yu, J..“Deep learning classification in asteroseismology”, 2017, MNRAS, 469, 4578, doi:[10.1093/mnras/stx1174](10.1093/mnras/stx1174)
