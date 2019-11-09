@@ -41,5 +41,15 @@ Deep Learning Evolutionary State Classifier
 
 Red giants are incredibly useful for a variety of Galactic studies because they are luminous, long-lived, and exist just about anywhere in the Milky Way. As these stars first evolve up the red giant branch (RGB), they burn hydrogen from a shell within the stellar interior. Eventually, they start burning helium in their core (HeB) and become _clump_ stars. Measuring the ages of red giants requires us to know what evolutionary state red giants are in (RGB or HeB); the problem is both types occupy more or less the same temperature and luminosity ranges, making them look very similar from the outside!
 
+While similar on the outside, the interiors of both types of giants are very different! Asteroseismology is the definitive way to differentiate them apart by measuring the period spacing of core-sensitive oscillation modes, which identifies clear differences between the internal structures of both types of stars. However, period spacing measurements require a star's frequency spectrum to be finely resolved and have high S/N: requirements not often met by stars with shorter observations such as those from _K2_ or _TESS_.
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/PopComp.png" alt="">
+  <figcaption>The left column shows the oscillation modes of RGB and HeB stars. The former typically have 'neater' spectra as opposed to the latter. Folding the spectra by their large frequency separation (\Delta\nu) as showin in the right column further accentuates the orderliness of the frequency pattern. The evolutionary state classifier uses folded spectra as its input. </figcaption>
+</figure> 
+
+In my [work](https://arxiv.org/abs/1705.06405), I train a 1D convolutional neural network to classify the arrangement of core-sensitive oscillation modes -- these are very different for more evolved HeB stars as compared to RGB stars. The neural network classifies very well on 4-year _Kepler_ data (99%), and it importantly allows the evolutionary states of vast numbers of red giants to be determined very quickly. In my [follow-up work](https://arxiv.org/abs/1802.07260), I apply this to data of low frequency resolution (as low as 1 month's worth of observations), and find that accuracies over 90% can still be recovered.
+
+This method will soon be updated again to be even more robust to noisy data. It is currently used in the K2 Galactic Archaeology Program, and will soon be applied to _TESS_ data! 
 
 
