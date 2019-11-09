@@ -3,7 +3,6 @@ permalink: /projects/
 title: "Marc's Webpage"
 author_profile: true
 redirect_from: 
-  - /projects/
   - /projects.html
 classes: wide
 header:
