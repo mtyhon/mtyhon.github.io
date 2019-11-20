@@ -36,6 +36,7 @@ What makes SLOSH unique is that it uses a 2D representation - an image - of 1D d
 
 The use of 2D representations for 1D data is not a new concept, and methods such as Recurrence Plots and Gramian Angular Fields have been used in literature for 1D time series analyses. SLOSH shows that a suitable choice of data representation goes a long way in training a machine learning model.
 
+Despite its name, SLOSH can also be applied to classify stars showing other forms of variability! The interative plot below shows how SLOSH can separate different stellar types fairly well just by looking at their frequencies. The distances between clusters represent how alike or different the power spectra are.
 
 <iframe src="/files/SLOSH_Train_Embedding_Image_Online.html"
     sandbox="allow-same-origin allow-scripts"
@@ -46,6 +47,7 @@ The use of 2D representations for 1D data is not a new concept, and methods such
     frameborder="0">
 </iframe>
 
+Red - Delta Scuti/Beta Cepheid; Gray - RR Lyrae/Cepheid; Orange - Constant (No Variability); Green - Contact Binary/Rotation; Pink - Eclipsing Binary; Blue - Aperiodic Variability; Purple - Solarlike Oscillator; Brown - Gamma Doradus/SPB.
 
 Deep Learning Evolutionary State Classifier
 ======
