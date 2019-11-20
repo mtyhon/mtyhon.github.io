@@ -36,6 +36,17 @@ What makes SLOSH unique is that it uses a 2D representation - an image - of 1D d
 
 The use of 2D representations for 1D data is not a new concept, and methods such as Recurrence Plots and Gramian Angular Fields have been used in literature for 1D time series analyses. SLOSH shows that a suitable choice of data representation goes a long way in training a machine learning model.
 
+
+<iframe src="/files/SLOSH_Train_Embedding_Image_Online.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+
 Deep Learning Evolutionary State Classifier
 ======
 
