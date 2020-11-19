@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marc Hon"
   avatar           : "profile.png"
-  bio              : "PhD Graduate, UNSW Sydney"
-  location         : "Sydney, Australia"
-  employer         :
+  bio              : "Hubble Fellow"
+  location         : "Honolulu"
+  employer         : "Institute for Astronomy, University of Hawai'i at Mānoa"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DE7fyk4AAAAJ&hl=en"
-  email            :
+  email            : "m.hon@unsw.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
