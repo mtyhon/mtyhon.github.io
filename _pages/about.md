@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 classes: wide
 header:
-  image: https://i.imgur.com/0LFwJ31.jpeg
+  image: https://i.imgur.com/yhLbNml.jpg
+  caption: "Image credit: NASA’s Goddard Space Flight Center/Chris Smith (KBRwyle)"
 ---
 
 
