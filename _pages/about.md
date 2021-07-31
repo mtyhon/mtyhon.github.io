@@ -7,20 +7,22 @@ redirect_from:
   - /about.html
 classes: wide
 header:
-  image: https://i.imgur.com/yhFZ8TQ.jpg
+  image: https://i.imgur.com/0LFwJ31.jpeg
 ---
 
 
 Biography
 ======
-I am a PhD graduate from the School of Physics in UNSW Sydney who worked with [Dennis Stello](https://research.unsw.edu.au/people/associate-professor-dennis-stello). My work focuses on the **applications of deep learning in asteroseismology**, which combines two very exciting research fields: artificial intelligence and astronomy. With great strides in recent exoplanet-hunting missions from NASA such as [_Kepler_](https://www.nasa.gov/mission_pages/kepler/main/index.html) and the [Transiting Exoplanet Survey Satellite (_TESS_)](https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite), asteroseismology has become a key tool for the characterization of fundamental stellar properties and to investigate stellar interiors. Using deep learning for asteroseismology accelerates this analysis for thousands to millions of stars, thus becoming important methods for Galactic archaeology and the search for exoplanets. 
+I am a [2020 NASA Hubble Fellow](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2020-nhfp-fellows?fbclid=IwAR2BAuH-GNrXdjNEz7NGGZtm8Px7qh-lCTyiUYyvL1LA-FbdBRtwHApWpgA#section-d9c9b807-4923-4a97-892c-a971f90a2b55) doing postdoctoral research at the Institute for Astronomy in Hawai'i. My research focuses on the asteroseismology of red giant stars, which has become a key tool for the characterization of stellar populations and Galactic archeology in the large survey-era of astronomy thanks to recent exoplanet-hunting missions from NASA such as [_Kepler_](https://www.nasa.gov/mission_pages/kepler/main/index.html) as well as the [Transiting Exoplanet Survey Satellite (_TESS_)](https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite).
 
-I am a [2020 NASA Hubble Fellow](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2020-nhfp-fellows?fbclid=IwAR2BAuH-GNrXdjNEz7NGGZtm8Px7qh-lCTyiUYyvL1LA-FbdBRtwHApWpgA#section-d9c9b807-4923-4a97-892c-a971f90a2b55) who will be working with [Daniel Huber](http://www.ifa.hawaii.edu/~dhuber/) at the Institute for Astronomy at the University of Hawai'i.
+Much of my work is also devoted to the application of machine learning in astronomy. Such an endeavour combines two very exciting and fast-moving disciplines, with great potential for accelerating important discoveries that are beneficial for both stellar physics and Galactic archeology. Who knows what kind of new, exotic star we might find using our algorithms? 
+
+
 
 
 Research Interests
 ------
-I am interested in understanding more about stellar evolution, as well as demystifying the origins of the Galaxy through modern space surveys! I am especially enthusiastic in learning about powerful 'Big Data'-era pattern recognition/data analysis techniques such as deep learning.
+I am interested in understanding more about stellar evolution, as well as demystifying the origins of the Galaxy through modern space surveys! I am particularly keen on learning about new machine learning/data analysis techniques that I can apply to astronomy.
 
 * Red Giant Asteroseismology
 * Deep Learning and other approaches to Artificial Intelligence
