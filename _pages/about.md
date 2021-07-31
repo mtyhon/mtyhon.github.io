@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 classes: wide
-excerpt: "Marc's Webpage"
+excerpt: "Marc's Webpage Excerpt"
 header:
-  image: https://i.imgur.com/yhLbNml.jpg
+  overlay_image: https://i.imgur.com/yhLbNml.jpg
   caption: "Image credit: NASA’s Goddard Space Flight Center/Chris Smith (KBRwyle)"
 ---
 
