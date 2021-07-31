@@ -20,6 +20,10 @@ I am a [2020 NASA Hubble Fellow](https://www.stsci.edu/stsci-research/fellowship
 Much of my work is also devoted to the application of machine learning in astronomy. Such an endeavour combines two very exciting and fast-moving disciplines, with great potential for accelerating important discoveries that are beneficial for both stellar physics and Galactic archeology. Who knows what kind of new, exotic star we might find using our algorithms? 
 
 
+<figure style="width: 400px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/TESS_Survey.gif" alt="">
+  <figcaption>The view of NASA's Transiting Exoplanet Survey Satellite across the night sky. The image dissolves into the heatmap of stellar masses inferred using the sounds of stars. </figcaption>
+</figure> 
 
 
 Research Interests
