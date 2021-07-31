@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Marc's Webpage"
+title: "The Search for Cool Stars"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 classes: wide
-excerpt: "Standing on the Shoulders of Giants"
+excerpt: "by standing on the shoulders of giants"
 header:
-  overlay_image: https://i.imgur.com/ATE7oqC.jpg
+  overlay_image: https://i.imgur.com/U6RP5AK.jpg
   caption: "Image credit: NASA’s Goddard Space Flight Center/Chris Smith (KBRwyle)"
 ---
 
