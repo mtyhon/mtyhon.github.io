@@ -22,7 +22,7 @@ Much of my work is also devoted to the application of machine learning in astron
 
 <figure style="width: 400px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/TESS_Survey.gif" alt="">
-  <figcaption>The view of NASA's Transiting Exoplanet Survey Satellite across the night sky. The image dissolves into the heatmap of stellar masses inferred using the sounds of stars. </figcaption>
+  <figcaption>The view of NASA's Transiting Exoplanet Survey Satellite across the night sky. The image dissolves into the heatmap of stellar masses inferred using the sounds of stars. Credit: NASA/MIT/TESS and Ethan Kruse (USRA), M. Hon et al., 2021. </figcaption>
 </figure> 
 
 
