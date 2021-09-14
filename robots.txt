@@ -1,0 +1,4 @@
+User-agent: Googlebot-news
+Allow: /
+
+Sitemap: https://mtyhon.github.io/sitemap.xml
