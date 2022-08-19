@@ -36,9 +36,13 @@ I am interested in understanding more about stellar evolution, as well as demyst
 * Galactic Archaeology
 
 
+What Have I Been Up To?
+------
+I have recently published a paper cataloging asteroseismic masses, radii, and evolutionary states of over a thousand giants with beautiful oscillation spectra that were observed by TESS. The catalog is called HD-TESS, and it has been recently been accepted in The Astronomical Journal. I am also analyzing several very interesting bright giants, more on that soon!
+
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hdtess_poster.png" alt="">
-  <figcaption>A graphic of some bright red giants observed by TESS, M. Hon et al., 2022. </figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hdtess_poster.png" alt="" class="full">
+  <figcaption>A starmap of bright red giants observed by TESS near the continuous viewing zones, M. Hon et al., 2022. </figcaption>
 </figure>
 
 Highlighted Publications
