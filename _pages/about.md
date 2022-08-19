@@ -36,18 +36,26 @@ I am interested in understanding more about stellar evolution, as well as demyst
 * Galactic Archaeology
 
 
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hdtess_poster.png" alt="">
+  <figcaption>A graphic of some bright red giants observed by TESS, M. Hon et al., 2022. </figcaption>
+</figure>
+
 Highlighted Publications
 ------
-Check out my [Publications](https://mtyhon.github.io/publications/) page for more details!
+Check out the [Publication List in my CV](https://mtyhon.github.io/files/Academic_CV.pdf) or the [Publications](https://mtyhon.github.io/publications/) page for more details!
 
+* Hon, M.; Huber, D.; Kuszlewicz, J. S.; et al.. ”A ’Quick Look’ at All-Sky Galactic Archeology with TESS: 158,000 Oscillating Red Giants from the MIT Quick-Look Pipeline”, 2021, ApJ, 919, 131. doi:[10.3847/1538-4357/ac14b1](https://doi.org/10.3847/1538-4357/ac14b1)
 * Hon, M.; Bellinger, E. P.; Hekker, S.; et al..“Asteroseismic inference of subgiant evolutionary parameters with deep learning”, 2019, MNRAS, 499, 2445, doi:[10.1093/mnras/staa2853](https://doi.org/10.1093/mnras/staa2853)
 * Hon, M.; Stello, D.; Garc ́ıa, R. A.; et al..“A search for red giant solar-like oscillations in all Kepler data”, 2019, MNRAS, 485, 5616, doi:[10.1093/mnras/stz622](https://doi.org/10.1093/mnras/stz622)
 * Hon, M.; Stello, D.; Zinn, J..“Detecting Solar-like Oscillations in Red Giants with Deep Learning”, 2018, ApJ, 859, 64, doi:[10.3847/1538-4357/aabfdb](https://doi.org/10.3847/1538-4357/aabfdb)
-* Hon, M.; Stello, D.; Yu, J..“Deep learning classification in asteroseismology using an improved neural network: results on 15000 Kepler red giants and applications to K2 and TESS data”, 2018, MNRAS, 476, 3233, doi:[10.1093/mnras/sty483](10.1093/mnras/sty483)
 * Hon, M.; Stello, D.; Yu, J..“Deep learning classification in asteroseismology”, 2017, MNRAS, 469, 4578, doi:[10.1093/mnras/stx1174](10.1093/mnras/stx1174)
 
 Media Highlights
 ------
+
+NASA’s TESS Tunes into an All-sky ‘Symphony’ of Red Giant Stars, NASA Featured Story, [https://www.nasa.gov/feature/goddard/2021/nasa-s-tess-tunes-into-an-all-sky-symphony-of-red-giant-stars](https://www.nasa.gov/feature/goddard/2021/nasa-s-tess-tunes-into-an-all-sky-symphony-of-red-giant-stars)
+
 How AI Can Determine the Future of Red Giants Like Our Sun, Nvidia Blog, 4 August 2017, [https://blogs.nvidia.com/blog/2017/08/04/red-giants/](https://blogs.nvidia.com/blog/2017/08/04/red-giants/)
 
 Scientists Are Using Artificial Intelligence to Plot the Galaxy, Inverse, 22 May 2017, [https://www.inverse.com/article/31912-machine-learning-ai-classifies-red-giant-age/](https://www.inverse.com/article/31912-machine-learning-ai-classifies-red-giant-age/)
