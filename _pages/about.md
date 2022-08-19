@@ -42,7 +42,7 @@ I have recently published a paper cataloging asteroseismic masses, radii, and ev
 
 <figure style="height: 700px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/hdtess_poster.png" alt="" class="full">
-  <figcaption>A starmap of bright red giants observed by TESS near the continuous viewing zones, M. Hon et al., 2022. </figcaption>
+  <figcaption>A starmap of bright red giants observed by TESS near the continuous viewing zones (HD-TESS). Bordering the starmap are the oscillation spectra of several notable, bright red giants. M. Hon et al., 2022. </figcaption>
 </figure>
 
 Highlighted Publications
