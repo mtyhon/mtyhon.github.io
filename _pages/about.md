@@ -31,9 +31,9 @@ Research Interests
 I am interested in understanding more about stellar evolution, as well as demystifying the origins of the Galaxy through modern space surveys! I am particularly keen on learning about new machine learning/data analysis techniques that I can apply to astronomy.
 
 * Red Giant Asteroseismology
-* Deep Learning and other approaches to Artificial Intelligence
-* Machine Learning
+* Machine Learning, Deep Learning, and Big Data<sup>:tm:</sup>
 * Galactic Archaeology
+* Exoplanets around evolved stars
 
 
 What Have I Been Up To?
