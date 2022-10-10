@@ -49,6 +49,8 @@ Highlighted Publications
 ------
 Check out the [Publication List in my CV](https://mtyhon.github.io/files/Academic_CV.pdf) or the [Publications](https://mtyhon.github.io/publications/) page for more details!
 
+* Hon, M.; Kuszlewicz, J. S.; Huber, D.; et al.. ”HD-TESS: An Asteroseismic Catalog
+of Bright Red Giants within TESS Continuous Viewing Zones”, 2022, AJ, 164, 135. doi:[10.3847/1538-3881/ac8931](https://doi.org/10.3847/1538-3881/ac8931)
 * Hon, M.; Huber, D.; Kuszlewicz, J. S.; et al.. ”A ’Quick Look’ at All-Sky Galactic Archeology with TESS: 158,000 Oscillating Red Giants from the MIT Quick-Look Pipeline”, 2021, ApJ, 919, 131. doi:[10.3847/1538-4357/ac14b1](https://doi.org/10.3847/1538-4357/ac14b1)
 * Hon, M.; Bellinger, E. P.; Hekker, S.; et al..“Asteroseismic inference of subgiant evolutionary parameters with deep learning”, 2019, MNRAS, 499, 2445, doi:[10.1093/mnras/staa2853](https://doi.org/10.1093/mnras/staa2853)
 * Hon, M.; Stello, D.; Garc ́ıa, R. A.; et al..“A search for red giant solar-like oscillations in all Kepler data”, 2019, MNRAS, 485, 5616, doi:[10.1093/mnras/stz622](https://doi.org/10.1093/mnras/stz622)
