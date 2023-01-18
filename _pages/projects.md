@@ -9,9 +9,26 @@ header:
   image: https://i.imgur.com/yhFZ8TQ.jpg
 ---
 
+The Henry Draper-TESS (HD-TESS) Catalog
+------
+I have published a catalog of asteroseismic masses, radii, and evolutionary states of > 1,500 bright giants with high SNR oscillation spectra in TESS's Continuous Viewing Zones. The catalog is called [HD-TESS](https://doi.org/10.3847/1538-3881/ac8931), representing the some of the best and the brightest observed by the TESS space mission.
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hdtess_poster.png" alt="" class="full">
+  <figcaption>A starmap of bright red giants observed by TESS near the Continuous Viewing Zones cataloged in HD-TESS. Bordering the starmap are the oscillation spectra of several notable, bright red giants. M. Hon et al., 2022. </figcaption>
+</figure>
+
+All-Sky Asteroseismology with TESS
+------
+I am interested in mapping the asteroseismology of stellar populations around the entire sky with NASA's Transiting Exoplanet Survey Satellite. Curiously, we have yet to listen to the pulsations of much of the night sky around us, and my work with TESS seeks to change that.
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/TESS_Survey.gif" alt="">
+  <figcaption>The view of NASA's Transiting Exoplanet Survey Satellite across the night sky. The image dissolves into the heatmap of stellar masses inferred using the sounds of stars. Credit: NASA/MIT/TESS and Ethan Kruse (USRA), M. Hon et al., 2021. </figcaption>
+</figure> 
 
 Computer Vision in Asteroseismology (SLOSH)
-======
+------
 
 In my [paper](https://arxiv.org/abs/1804.07495) I introduce the Solar-like Oscillations Shape Hunter (SLOSH), which is a 2D convolutional neural network that identifies the presence of red giant oscillations from images of frequency power spectra of stars. Red giant power spectra have very characteristic frequency-power profiles that show rich levels of complexity; this makes it non-trivial for asteroseismic data-fitting pipelines to automatically extract seismic information from a large sample of stars. 
 
@@ -50,7 +67,7 @@ Despite its name, SLOSH can also be applied to classify stars showing other form
 Red - Delta Scuti/Beta Cepheid; Gray - RR Lyrae/Cepheid; Orange - Constant (No Variability); Green - Contact Binary/Rotation; Pink - Eclipsing Binary; Blue - Aperiodic Variability; Purple - Solarlike Oscillator; Brown - Gamma Doradus/SPB.
 
 Deep Learning Evolutionary State Classifier
-======
+------
 
 Red giants are incredibly useful for a variety of Galactic studies because they are luminous, long-lived, and exist just about anywhere in the Milky Way. As these stars first evolve up the red giant branch (RGB), they burn hydrogen from a shell within the stellar interior. Eventually, they start burning helium in their core (HeB) and become _clump_ stars. Measuring the ages of red giants requires us to know what evolutionary state red giants are in (RGB or HeB); the problem is both types occupy more or less the same temperature and luminosity ranges, making them look very similar from the outside!
 
