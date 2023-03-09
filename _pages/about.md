@@ -34,11 +34,11 @@ I am interested in understanding more about stellar evolution, as well as demyst
 * Machine Learning, Deep Learning, and Big Data<sup>:tm:</sup>
 * Galactic Archaeology
 * Exoplanets around evolved stars
-
+<!-- [Publication List in my CV](https://mtyhon.github.io/files/Academic_CV.pdf)  -->
 
 Highlighted Publications
 ------
-Check out the [Publication List in my CV](https://mtyhon.github.io/files/Academic_CV.pdf) or the [Publications](https://mtyhon.github.io/publications/) page for more details!
+Check out the [Publications](https://mtyhon.github.io/publications/) page for more details!
 
 * Hon, M.; Kuszlewicz, J. S.; Huber, D.; et al.. ”HD-TESS: An Asteroseismic Catalog
 of Bright Red Giants within TESS Continuous Viewing Zones”, 2022, AJ, 164, 135. doi:[10.3847/1538-3881/ac8931](https://doi.org/10.3847/1538-3881/ac8931)
