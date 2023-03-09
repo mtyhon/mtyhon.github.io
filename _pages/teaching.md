@@ -16,7 +16,7 @@ ASTR699 Research (1 student) ---- **2022-present**
 
 Research Experiences for Undergraduates (4 students) ---- **2022**
 
-Academic Lecturer, Institute for Astronomy, Hawai'i
+Guest Lecturer, Institute for Astronomy, Hawai'i
 ------
 ASTR 631 Radiative Transfer Stellar Atmospheres ---- **2022**
 
@@ -25,7 +25,7 @@ Academic Tutor, School of Physics, UNSW Sydney
 ------
 PHYS3116 -- Astrophysics Tutor ---- **2019**
 
-PHYS3116 -- Astrophysics Lecturer ---- **2018**
+PHYS3116 -- Astrophysics Guest Lecturer ---- **2018**
 
 Research Supervisor, School of Physics, UNSW Sydney
 ------
