@@ -32,7 +32,10 @@ PhD research co-mentor at UNSW Sydney (Claudia Reyes) ---- **2021-present**
 
 Honours Year co-mentor at UNSW Sydney (Lauren Taylor, Rudy Xu, Tommy Lee) ---- **2018-2021**
 
+Taste for Research Undergraduate Program at UNSW Sydney (Noah Vinod, David Nguyen, Ryan Oldfield) ---- **2018-2020**
+
 MSc research project co-mentor at UNSW Sydney (Shabib Rizvi) ---- **2017**
+
 
 
 ### Academic Tutor
@@ -61,6 +64,7 @@ PhD program supervision (1 student) ---- **2021-present**
 Honours project supervision (2 students) ---- **2018-2019**
 
 Undergraduate research program (6 students) ---- **2017-2019**
+
 
 Lab Assistant, University of Wollongong
 ------
