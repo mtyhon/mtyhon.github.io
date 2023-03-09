@@ -10,18 +10,45 @@ header:
 ---
 
 
-Research Supervisor, Institute for Astronomy, Hawai'i
+Education
 ------
-ASTR699 Research (1 student) ---- **2022-present** 
+### Guest Lecture
 
-Research Experiences for Undergraduates (4 students) ---- **2022**
+ASTR 631 Radiative Transfer Stellar Atmospheres Lecture at Institute for Astronomy, Hawai'i ----  **2022**
 
-Guest Lecturer, Institute for Astronomy, Hawai'i
+PHYS3116 -- Astrophysics Lecture at UNSW Sydney ---- **2018**
+
+
+
+Mentoring
 ------
-ASTR 631 Radiative Transfer Stellar Atmospheres ---- **2022**
+### Research Mentor
+
+Research Experiences for Undergraduates at Institute for Astronomy, Hawai'i ---- **2022-present**
+
+ASTR699 Directed Research at Institute for Astronomy, Hawai'i (Keyan Gootkin) ---- **2022-present** 
+
+PhD research co-mentor at UNSW Sydney (Claudia Reyes) ---- **2021-present**
+
+Honours Year co-mentor at UNSW Sydney (Lauren Taylor, Rudy Xu, Tommy Lee) ---- **2018-2021**
+
+MSc research project co-mentor at UNSW Sydney (Shabib Rizvi) ---- **2017**
 
 
-Academic Tutor, School of Physics, UNSW Sydney
+### Academic Tutor
+
+PHYS3116 Astrophysics Workshop Tutor at UNSW Sydney ---- **2018**
+
+PHYS225 Electromagnetism and Optoelectronics Lab Tutor at University of Wollongong ---- **2016**
+
+PHYS141/142 Fundamentals of Physics Lab Tutor at University of Wollongong ---- **2015**
+
+PHYS225 Electromagnetism and Optoelectronics Lab Tutor at University of Wollongong ---- **2015**
+
+PHYS3116 Astrophysics Workshop Tutor at UNSW Sydney ---- **2018**
+
+
+<!-- Academic Tutor, School of Physics, UNSW Sydney
 ------
 PHYS3116 -- Astrophysics Tutor ---- **2019**
 
