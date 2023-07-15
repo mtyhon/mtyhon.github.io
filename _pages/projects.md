@@ -15,7 +15,7 @@ We reveal the first discovery of a planet escaping engulfment from its host star
 In this study published in [_Nature_](https://www.nature.com/articles/s41586-023-06029-0), we explore the unexpected survival of Halla, which suggests a unique survival pathway involving a binary star history for Baekdu.
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/8umi_merger.png" alt="" class="full">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/8umi_merger.jpg" alt="" class="full">
   <figcaption>An artist's visualization of the merger between an expanding red giant and a white dwarf. Planet Halla, in the foreground, survives engulfment in this scenario as the merger prevents the red giant from expanding sufficiently large to reach the planet. Adam Makarenko/Keck Observatory. </figcaption>
 </figure>
 
