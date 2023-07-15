@@ -13,7 +13,7 @@ header:
 ---
 
 
-Biography
+Biography: Astronomer, Tinkerer, Explorer
 ======
 I am a [2020 NASA Hubble Fellow](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2020-nhfp-fellows?fbclid=IwAR2BAuH-GNrXdjNEz7NGGZtm8Px7qh-lCTyiUYyvL1LA-FbdBRtwHApWpgA#section-d9c9b807-4923-4a97-892c-a971f90a2b55) doing postdoctoral research at the Institute for Astronomy in Hawai'i. My research focus is data-driven variable star science, and thus I am very interested in the application of machine learning in astronomy. While I believe data-driven discovery is a necessity for modern astronomy, I still greatly enjoy thoroughly exploring survey data and independently uncovering a wide array of unique stars!
 
