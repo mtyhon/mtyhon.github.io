@@ -38,7 +38,7 @@ I am interested in understanding more about stellar evolution, as well as demyst
 
 Highlighted Publications
 ------
-Check out the [Publications](https://mtyhon.github.io/publications/) page for more details!
+A list of my publications on the SAO/NASA Astrophysics Data System (ADS) can be found [in this link](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-2400-6960&sort=date+desc). Do also check out the [Publications](https://mtyhon.github.io/publications/) page for more details!
 * Hon, M.; Huber, D.; Rui, N. Z.; et al.. "A close-in giant planet escaping engulfment by its star", 2023, Nature, 618, 917. doi:[10.1038/s41586-023-06029-0](https://www.nature.com/articles/s41586-023-06029-0)
 * Hon, M.; Kuszlewicz, J. S.; Huber, D.; et al.. ”HD-TESS: An Asteroseismic Catalog
 of Bright Red Giants within TESS Continuous Viewing Zones”, 2022, AJ, 164, 135. doi:[10.3847/1538-3881/ac8931](https://doi.org/10.3847/1538-3881/ac8931)
