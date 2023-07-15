@@ -9,6 +9,16 @@ header:
   image: https://i.imgur.com/yhFZ8TQ.jpg
 ---
 
+Discovery of a Planet Escaping Engulfment
+------
+We reveal the first discovery of a planet escaping engulfment from its host star up the red giant branch. The planet Halla (8 UMi b) orbits its host star Baekdu (8 UMi) perilously close at a distance of only 0.5 AU. We discover that Baekdu is a red clump star, implying that it should have once been sufficiently large to engulf Halla.
+In this study published in [_Nature_](https://www.nature.com/articles/s41586-023-06029-0), we explore the unexpected survival of Halla, which suggests a unique survival pathway involving a binary star history for Baekdu.
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/8umi_merger.png" alt="" class="full">
+  <figcaption>An artist's visualization of the merger between an expanding red giant and a white dwarf. Planet Halla, in the foreground, survives engulfment in this scenario as the merger prevents the red giant from expanding sufficiently large to reach the planet. Adam Makarenko/Keck Observatory. </figcaption>
+</figure>
+
 The Henry Draper-TESS (HD-TESS) Catalog
 ------
 I have published a catalog of asteroseismic masses, radii, and evolutionary states of > 1,500 bright giants with high SNR oscillation spectra in TESS's Continuous Viewing Zones. The catalog is called [HD-TESS](https://doi.org/10.3847/1538-3881/ac8931), representing the some of the best and the brightest observed by the TESS space mission.
