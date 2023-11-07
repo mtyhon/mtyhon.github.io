@@ -13,9 +13,9 @@ header:
 ---
 
 
-Biography: Astronomer, Tinkerer, Explorer
+Astronomer, Tinkerer, and Explorer
 ======
-I am a [2020 NASA Hubble Fellow](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2020-nhfp-fellows?fbclid=IwAR2BAuH-GNrXdjNEz7NGGZtm8Px7qh-lCTyiUYyvL1LA-FbdBRtwHApWpgA#section-d9c9b807-4923-4a97-892c-a971f90a2b55) doing postdoctoral research at the Institute for Astronomy in Hawai'i. My research focus is data-driven variable star science, and thus I am very interested in the application of machine learning in astronomy. While I believe data-driven discovery is a necessity for modern astronomy, I still greatly enjoy thoroughly exploring survey data and independently uncovering a wide array of unique stars!
+I am currently a [postdoctoral researcher](https://space.mit.edu/people/hon-marc/) at the Kavli Institute for Astrophysics and Space Research in the Massachusetts Institute of Technology. Previously, I was a [2020 NASA Hubble Fellow](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2020-nhfp-fellows?fbclid=IwAR2BAuH-GNrXdjNEz7NGGZtm8Px7qh-lCTyiUYyvL1LA-FbdBRtwHApWpgA#section-d9c9b807-4923-4a97-892c-a971f90a2b55) at the Institute for Astronomy in Hawai'i. My research focus is data-driven variable star science, and I am broadly interested in the application of machine learning in astronomy. Data-driven approaches are indeed becoming a necessity for modern astronomy, and I enjoy diving deep into astronomical surveys to to reveal new discoveries!
 
 My previous works have revolved around the asteroseismology of red giant stars, which has become a key tool for the characterization of stellar populations and Galactic archeology in the large survey-era of astronomy thanks to recent exoplanet-hunting missions from NASA such as [_Kepler_](https://www.nasa.gov/mission_pages/kepler/main/index.html) as well as the [Transiting Exoplanet Survey Satellite (_TESS_)](https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite). 
 
@@ -30,7 +30,7 @@ Research Interests
 ------
 I am interested in understanding more about stellar evolution, as well as demystifying the origins of the Galaxy through modern space surveys! I am particularly keen on learning about new machine learning/data analysis techniques that I can apply to astronomy.
 
-* Red Giant Asteroseismology
+* Asteroseismology of Sun-like stars and evolved, low-mass stars
 * Machine Learning, Data-driven Astronomy
 * Galactic Archaeology
 * Exoplanetary Science
