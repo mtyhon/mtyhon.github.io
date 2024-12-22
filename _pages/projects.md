@@ -9,6 +9,17 @@ header:
   image: https://i.imgur.com/yhFZ8TQ.jpg
 ---
 
+Pulsations of TESS's Coolest Main Sequence Dwarf 
+------
+σ Draconis is a nearby K-dwarf that is a prime target for the searches for an Earth-like planet from the Habitable Worlds Observatory. Curiously, it is likely the star with the highest pulsation frequences and lowest amplitudes to have solar-like oscillations clear detected by TESS data. In this [work](https://iopscience.iop.org/article/10.3847/1538-4357/ad76a9/pdf), we also present the first asteroseismic results from the Keck Planet Finder, showing that while our photometry may be unable to detect these low-amplitude oscillations, our next-generation precision radial velocity instruments surely can! 
+
+<figure style="width: 400px; margin: auto; text-align: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sigdra.PNG" alt="" class="full">
+  <figcaption>Power spectra of σ Draconis from Keck Planet Finder (KPF) radial velocities (top panel) versus from TESS (lower two panels). The KPF data evidently has higher signal-to-noise of these very low-amplitude oscillations, whose velocities (6 cm/s) are equivalent to the speed of a sloth on land.</figcaption>
+</figure>
+
+
+
 Emulating Stellar Evolutionary Grids with Normalizing Flows
 ------
 We often rely on interpolating multi-dimensional grids of stellar evolution models to infer the fundamental properties of stars like their masses and age. These grids can be incredibly expensive to generate in high dimensions, often resulting in incredibly sparse grids not well-suited for interpolation. In this study, we train normalizing flows, a generative deep learning model, to emulate these high-dimensional distribution of stellar grids to act as powerful and accurate interpolators. Their interpolations are useful substitutes over the standard Markov Chain Monte Carlo approaches, are smooth over the domain, and make for terrific visualizations. 
