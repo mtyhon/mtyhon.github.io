@@ -9,6 +9,16 @@ header:
   image: https://i.imgur.com/yhFZ8TQ.jpg
 ---
 
+Emulating Stellar Evolutionary Grids with Normalizing Flows
+------
+We often rely on interpolating multi-dimensional grids of stellar evolution models to infer the fundamental properties of stars like their masses and age. These grids can be incredibly expensive to generate in high dimensions, often resulting in incredibly sparse grids not well-suited for interpolation. In this study, we train normalizing flows, a generative deep learning model, to emulate these high-dimensional distribution of stellar grids to act as powerful and accurate interpolators. Their interpolations are useful substitutes over the standard Markov Chain Monte Carlo approaches, are smooth over the domain, and make for terrific visualizations. 
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/varymassfeh.gif" alt="" class="full">
+  <figcaption>The interpolation of 6D isochrones, shown with a varying time coordinate. The colors represent the stellar mass and metallicity of each isochrone. Details and the implementation are at the [modelflows](https://github.com/mtyhon/modelflows) repository.   </figcaption>
+</figure>
+
+
 Discovery of a Planet Escaping Engulfment
 ------
 We reveal the first discovery of a planet escaping engulfment from its host star up the red giant branch. The planet Halla (8 UMi b) orbits its host star Baekdu (8 UMi) perilously close at a distance of only 0.5 AU. We discover that Baekdu is a red clump star, implying that it should have once been sufficiently large to engulf Halla.
