@@ -13,10 +13,11 @@ Pulsations of TESS's Coolest Main Sequence Dwarf
 ------
 σ Draconis is a nearby K-dwarf that is a prime target for the searches for an Earth-like planet from the Habitable Worlds Observatory. Curiously, it is likely the star with the highest pulsation frequences and lowest amplitudes to have solar-like oscillations clear detected by TESS data. In this [work](https://iopscience.iop.org/article/10.3847/1538-4357/ad76a9/pdf), we also present the first asteroseismic results from the Keck Planet Finder, showing that while our photometry may be unable to detect these low-amplitude oscillations, our next-generation precision radial velocity instruments surely can! 
 
-<figure style="width: 400px;  class="align-right">
+<figure style="width: 400px"  class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/sigdra.PNG" alt="" class="full">
   <figcaption>Power spectra of σ Draconis from Keck Planet Finder (KPF) radial velocities (top panel) versus from TESS (lower two panels). The KPF data evidently has higher signal-to-noise of these very low-amplitude oscillations, whose velocities (6 cm/s) are equivalent to the speed of a sloth on land.</figcaption>
 </figure>
+
 
 
 
