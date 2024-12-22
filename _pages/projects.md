@@ -13,7 +13,7 @@ Emulating Stellar Evolutionary Grids with Normalizing Flows
 ------
 We often rely on interpolating multi-dimensional grids of stellar evolution models to infer the fundamental properties of stars like their masses and age. These grids can be incredibly expensive to generate in high dimensions, often resulting in incredibly sparse grids not well-suited for interpolation. In this study, we train normalizing flows, a generative deep learning model, to emulate these high-dimensional distribution of stellar grids to act as powerful and accurate interpolators. Their interpolations are useful substitutes over the standard Markov Chain Monte Carlo approaches, are smooth over the domain, and make for terrific visualizations. 
 
-<figure>
+<figure style="width: 600px" >
   <img src="{{ site.url }}{{ site.baseurl }}/images/varymassfeh.gif" alt="" class="full">
   <figcaption>The interpolation of 6D isochrones, shown with a varying time coordinate. The colors represent the stellar mass and metallicity of each isochrone. Details and the implementation are at the [modelflows](https://github.com/mtyhon/modelflows) repository.   </figcaption>
 </figure>
