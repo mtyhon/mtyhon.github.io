@@ -13,11 +13,10 @@ header:
 ---
 
 
-Astronomer, Tinkerer, and Explorer
+Astronomer, Explorer, and Tinkerer
 ======
-I am currently a [postdoctoral researcher](https://space.mit.edu/people/marc-hon/) at the Kavli Institute for Astrophysics and Space Research in the Massachusetts Institute of Technology. Previously, I was a [2020 NASA Hubble Fellow](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2020-nhfp-fellows?fbclid=IwAR2BAuH-GNrXdjNEz7NGGZtm8Px7qh-lCTyiUYyvL1LA-FbdBRtwHApWpgA#section-d9c9b807-4923-4a97-892c-a971f90a2b55) at the Institute for Astronomy in Hawai'i. My research focus is data-driven variable star science, and I am broadly interested in the application of machine learning in astronomy. Data-driven approaches are indeed becoming a necessity for modern astronomy, and I enjoy diving deep into astronomical surveys to to reveal new discoveries!
+I am currently a [postdoctoral researcher](https://space.mit.edu/people/marc-hon/) at the [TESS Science Office](https://tess.mit.edu/) in the Massachusetts Institute of Technology. Previously, I was a [2020 NASA Hubble Fellow](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2020-nhfp-fellows?fbclid=IwAR2BAuH-GNrXdjNEz7NGGZtm8Px7qh-lCTyiUYyvL1LA-FbdBRtwHApWpgA#section-d9c9b807-4923-4a97-892c-a971f90a2b55) at the Institute for Astronomy in Hawai'i. My focus is on data-driven studies of starlight from stars, most prominently measurements of starlight over time called _light curves_. Planet-hunting missions, such as NASA's [_Kepler_](https://www.nasa.gov/mission_pages/kepler/main/index.html), NASA's [Transiting Exoplanet Survey Satellite (_TESS_)](https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite), and the European Space Agency's [_Gaia_](https://www.esa.int/Science_Exploration/Space_Science/Gaia) have truly catapulted us into the large survey-era of astronomy. More than ever, we need clever tools to assist us astronomers in making new discoveries and deepening our understanding of the Galaxy and cosmos from this deluge of data. This is where my research interests come in!
 
-My previous works have revolved around the asteroseismology of red giant stars, which has become a key tool for the characterization of stellar populations and Galactic archeology in the large survey-era of astronomy thanks to recent exoplanet-hunting missions from NASA such as [_Kepler_](https://www.nasa.gov/mission_pages/kepler/main/index.html) as well as the [Transiting Exoplanet Survey Satellite (_TESS_)](https://www.nasa.gov/tess-transiting-exoplanet-survey-satellite). 
 
 
 <figure style="width: 400px" class="align-right">
@@ -28,10 +27,8 @@ My previous works have revolved around the asteroseismology of red giant stars, 
 
 Research Interests
 ------
-I am interested in understanding more about stellar evolution, as well as demystifying the origins of the Galaxy through modern space surveys! I am particularly keen on learning about new machine learning/data analysis techniques that I can apply to astronomy.
-
-* Asteroseismology of Sun-like stars and evolved, low-mass stars
-* Machine Learning, Data-driven Astronomy
+* Variable Stars
+* Data-driven Astronomy, including Astrostatistics, Machine Learning, and Deep Learning
 * Galactic Archaeology
 * Exoplanetary Science
 <!-- [Publication List in my CV](https://mtyhon.github.io/files/Academic_CV.pdf)  -->
@@ -40,8 +37,6 @@ Highlighted Publications
 ------
 A list of my publications on the SAO/NASA Astrophysics Data System (ADS) can be found [in this link](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-2400-6960&sort=date+desc). Do also check out the [Publications](https://mtyhon.github.io/publications/) page for more details!
 * Hon, M.; Huber, D.; Rui, N. Z.; et al.. "A close-in giant planet escaping engulfment by its star", 2023, Nature, 618, 917. doi:[10.1038/s41586-023-06029-0](https://www.nature.com/articles/s41586-023-06029-0)
-* Hon, M.; Kuszlewicz, J. S.; Huber, D.; et al.. ”HD-TESS: An Asteroseismic Catalog
-of Bright Red Giants within TESS Continuous Viewing Zones”, 2022, AJ, 164, 135. doi:[10.3847/1538-3881/ac8931](https://doi.org/10.3847/1538-3881/ac8931)
 * Hon, M.; Huber, D.; Kuszlewicz, J. S.; et al.. ”A ’Quick Look’ at All-Sky Galactic Archeology with TESS: 158,000 Oscillating Red Giants from the MIT Quick-Look Pipeline”, 2021, ApJ, 919, 131. doi:[10.3847/1538-4357/ac14b1](https://doi.org/10.3847/1538-4357/ac14b1)
 * Hon, M.; Bellinger, E. P.; Hekker, S.; et al..“Asteroseismic inference of subgiant evolutionary parameters with deep learning”, 2019, MNRAS, 499, 2445, doi:[10.1093/mnras/staa2853](https://doi.org/10.1093/mnras/staa2853)
 * Hon, M.; Stello, D.; Zinn, J..“Detecting Solar-like Oscillations in Red Giants with Deep Learning”, 2018, ApJ, 859, 64, doi:[10.3847/1538-4357/aabfdb](https://doi.org/10.3847/1538-4357/aabfdb)
