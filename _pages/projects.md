@@ -9,6 +9,18 @@ header:
   image: https://i.imgur.com/yhFZ8TQ.jpg
 ---
 
+Discovering BD+ 05 4868 Ab, the nearest disintegrating planet and the best candidate to date
+------
+<figure style="width: 400px; margin: auto; text-align: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/disint.jpg" alt="" class="full">
+  <figcaption> Illustration of the disintegrating planet BD+ 05 4868 Ab as it orbits its host star. The planet's disintegration produces an enormous dust tail that both leads and trails the planet in its orbit. </figcaption>
+</figure>
+
+Disintegrating planets die in a spectacular way, by forming a comet-like debris tail containing minerals of its evaporating surface. While they are extremely rare, they provide us with one of the best opportunities to truly learn about the chemical makeup of planets outside our Solar System. 
+Using NASA's TESS mission, we've [discovered the best and brightest disintegrating planet system to date](https://iopscience.iop.org/article/10.3847/2041-8213/adbf21), leading to tantalizing follow-up opportunities for exoplanet geology using instruments like NASA's James Webb Space Telescope.
+
+
+
 Pulsations of TESS's Coolest Main Sequence Dwarf 
 ------
 <figure style="width: 300px"  class="align-right">
