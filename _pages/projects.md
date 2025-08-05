@@ -9,7 +9,7 @@ header:
   image: https://i.imgur.com/yhFZ8TQ.jpg
 ---
 
-Discovering BD+ 05 4868 Ab, the nearest disintegrating planet and the best candidate to date
+Introducing BD+ 05 4868 Ab, the nearest disintegrating planet
 ------
 <figure style="width: 400px; margin: auto; text-align: center;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/disint.jpg" alt="" class="full">
