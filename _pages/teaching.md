@@ -12,6 +12,14 @@ header:
 
 Education
 ------
+
+### Lecturer
+
+AIS 5101 - Applications of AI in Science ---- **2026**
+
+AIS 5201 - AI in Astrophysics ---- **2026**
+
+
 ### Guest Lecture
 
 ASTR 631 Radiative Transfer Stellar Atmospheres Lecture at Institute for Astronomy, Hawai'i ----  **2022**
@@ -24,11 +32,13 @@ Mentoring
 ------
 ### Research Mentor
 
-Research Experiences for Undergraduates at Institute for Astronomy, Hawai'i ---- **2022-present**
+MIT Undergraduate Research Opportunities Program ---- **2024-2025**
 
-ASTR699 Directed Research at Institute for Astronomy, Hawai'i (Keyan Gootkin) ---- **2022-present** 
+Research Experiences for Undergraduates at Institute for Astronomy, Hawai'i ---- **2022-2023**
 
-PhD research co-mentor at UNSW Sydney (Claudia Reyes) ---- **2021-present**
+ASTR699 Directed Research at Institute for Astronomy, Hawai'i (Keyan Gootkin) ---- **2022-2023** 
+
+PhD research co-mentor at UNSW Sydney (Claudia Reyes) ---- **2021-2023**
 
 Honours Year co-mentor at UNSW Sydney (Lauren Taylor, Rudy Xu, Tommy Lee) ---- **2018-2021**
 
