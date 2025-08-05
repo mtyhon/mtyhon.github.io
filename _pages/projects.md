@@ -11,7 +11,7 @@ header:
 
 Introducing BD+ 05 4868 Ab, the nearest disintegrating planet
 ------
-<figure style="width: 400px; margin: auto; text-align: center;">
+<figure style="width: 600px; margin: auto; text-align: center;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/disint.jpg" alt="" class="full">
   <figcaption> Illustration of the disintegrating planet BD+ 05 4868 Ab as it orbits its host star. The planet's disintegration produces an enormous dust tail that both leads and trails the planet in its orbit. </figcaption>
 </figure>
