@@ -15,9 +15,9 @@ Education
 
 ### Lecturer
 
-AIS 5101 - Applications of AI in Science ---- **2026**
+AIS 5101 - Applications of AI in Science, National University of Singapore ---- **2026**
 
-AIS 5201 - AI in Astrophysics ---- **2026**
+AIS 5201 - AI in Astrophysics, National University of Singapore ---- **2026**
 
 
 ### Guest Lecture
